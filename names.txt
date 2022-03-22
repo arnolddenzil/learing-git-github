@@ -1,1 +1,3 @@
 alan, arnold, amanda
+cherian, anton
+marisa, manu
